@@ -1,0 +1,11 @@
+{
+  "name": "myfirsttest",
+  "version": "1.0.0",
+  "description": "myFirstTest",
+  "main": "capitalize.js",
+  "type": "module",
+
+  "scripts": {
+  "test": "node --experimental-modules --no-warnings ./tests/capitalize.test.js"
+  }
+}
